@@ -1,2 +1,2 @@
-# my-blogs
+# My-Blogs
 My Weekly blogs
